@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-23T18:22:39.173Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="WVTe65rv2PaHgh-m29gB" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-23T21:55:07.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RMGaJiFD3p20-zgNqc71" version="14.2.6" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="2739" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2822" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,8 +356,11 @@
         <mxCell id="g86mQ-02CJoT59m2LPHv-94" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;&lt;b&gt;Decision Boundary&lt;/b&gt; is either a straight line or a flat plane for higher dimensions&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="814.8999999999999" width="165" height="60.2" as="geometry" />
         </mxCell>
+        <mxCell id="g86mQ-02CJoT59m2LPHv-112" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="g86mQ-02CJoT59m2LPHv-96" target="g86mQ-02CJoT59m2LPHv-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g86mQ-02CJoT59m2LPHv-96" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 12px&quot;&gt;Logistic&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 12px&quot;&gt;regression&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1565" y="650" width="120" height="40" as="geometry" />
+          <mxGeometry x="1600" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="g86mQ-02CJoT59m2LPHv-100" value="&lt;b&gt;L1&lt;/b&gt;&lt;br&gt;Minimizes the sum of the absolute values" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1070" y="950" width="120" height="60" as="geometry" />
@@ -373,6 +376,15 @@
         </mxCell>
         <mxCell id="g86mQ-02CJoT59m2LPHv-106" value="&lt;span style=&quot;font-family: &amp;#34;calibri&amp;#34; ; font-size: 12px&quot;&gt;Linear Regression&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1422.5" y="649.9999999999999" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g86mQ-02CJoT59m2LPHv-114" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="g86mQ-02CJoT59m2LPHv-111" target="g86mQ-02CJoT59m2LPHv-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g86mQ-02CJoT59m2LPHv-111" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;Classifies data that is linearly separable using a &lt;b&gt;Soft Threshold&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1587.5" y="720.1" width="147.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g86mQ-02CJoT59m2LPHv-113" value="&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34;&quot;&gt;Results are &lt;b&gt;continuous&lt;/b&gt;, giving the probability that a point is of a certain class.&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1578.75" y="904.9499999999998" width="165" height="60.2" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

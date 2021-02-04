@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T17:29:28.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="tGFxU_Nu3B3k8N8v-kXN" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-04T18:41:45.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="g_VnxBAb94yhFvD5lJjg" version="14.2.7" type="github">
   <diagram id="tKuWj6LFUMwr7dEklEo5" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3400" pageHeight="1400" math="0" shadow="0">
       <root>
@@ -55,14 +55,17 @@
         <mxCell id="IfxhD3wFMC27ophKaNrH-11" value="Cognitive Science" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IfxhD3wFMC27ophKaNrH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-15" target="IfxhD3wFMC27ophKaNrH-16">
+        <mxCell id="IfxhD3wFMC27ophKaNrH-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-15" target="IfxhD3wFMC27ophKaNrH-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-63" value="Aristotle" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-15" target="IfxhD3wFMC27ophKaNrH-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IfxhD3wFMC27ophKaNrH-15" value="Thinking Rationally" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IfxhD3wFMC27ophKaNrH-16" value="Logical Process" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="1300" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IfxhD3wFMC27ophKaNrH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-18" target="IfxhD3wFMC27ophKaNrH-8">
           <mxGeometry relative="1" as="geometry" />
@@ -79,14 +82,20 @@
         <mxCell id="IfxhD3wFMC27ophKaNrH-18" value="Approaches" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IfxhD3wFMC27ophKaNrH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-19" target="IfxhD3wFMC27ophKaNrH-24">
+        <mxCell id="IfxhD3wFMC27ophKaNrH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-19" target="IfxhD3wFMC27ophKaNrH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-74" value="acts to achieve best outcome" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-19" target="IfxhD3wFMC27ophKaNrH-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-19" target="IfxhD3wFMC27ophKaNrH-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IfxhD3wFMC27ophKaNrH-19" value="Acting Rationally" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1680" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IfxhD3wFMC27ophKaNrH-24" value="Increasing value of state of agent/environment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="1610" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IfxhD3wFMC27ophKaNrH-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-26" target="IfxhD3wFMC27ophKaNrH-40">
           <mxGeometry relative="1" as="geometry" />
@@ -180,6 +189,110 @@
         </mxCell>
         <mxCell id="IfxhD3wFMC27ophKaNrH-60" value="theory as a computer program" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-65" value="initiated" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-62" target="IfxhD3wFMC27ophKaNrH-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-62" value="Syllogisms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="510" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-64" target="IfxhD3wFMC27ophKaNrH-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-64" value="field of &#39;Logic&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="630" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-66" target="IfxhD3wFMC27ophKaNrH-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-66" target="IfxhD3wFMC27ophKaNrH-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-66" value="problems" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="730" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-67" value="knowledge is not always 100% certain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="830" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-68" value="a small number of facts is computationally expensive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="830" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-73" value="Rational Agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-75" value="Not necessarily &#39;thinking rationally&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-79" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-77" target="IfxhD3wFMC27ophKaNrH-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-77" value="Neuroscience" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-82" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-78" target="IfxhD3wFMC27ophKaNrH-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-84" value="at rest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IfxhD3wFMC27ophKaNrH-82">
+          <mxGeometry x="-0.2615" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-83" value="during activity" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.7;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-78" target="IfxhD3wFMC27ophKaNrH-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-86" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-78" target="IfxhD3wFMC27ophKaNrH-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-87" value="view inputs/outputs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IfxhD3wFMC27ophKaNrH-86">
+          <mxGeometry x="-0.0553" y="-18" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-78" value="Study of the brain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-80" value="EEG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-81" target="IfxhD3wFMC27ophKaNrH-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-91" value="BOLD signal" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-81" target="IfxhD3wFMC27ophKaNrH-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-93" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-81" target="IfxhD3wFMC27ophKaNrH-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-94" value="allows focus on&amp;nbsp;&lt;br&gt;area of study" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IfxhD3wFMC27ophKaNrH-93">
+          <mxGeometry x="-0.2421" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-81" value="fMRI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-85" value="single-cell recording" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-88" value="Strong Magnetic Pulses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-89" value="ratio of oxygen-rich vs oxygen-poor blood" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-96" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IfxhD3wFMC27ophKaNrH-92" target="IfxhD3wFMC27ophKaNrH-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-97" value="average over several subjects" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IfxhD3wFMC27ophKaNrH-96">
+          <mxGeometry x="-0.2727" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-92" value="subtraction method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfxhD3wFMC27ophKaNrH-95" value="Average Brain Activity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T20:11:18.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="HVDpODZgN6N-eMfrw790" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-22T20:15:04.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="jjbqJ8-WatJErSceMA_E" version="14.4.2" type="github">
   <diagram id="EzrwSCGouuQU8ehzA2U_" name="Page-1">
-    <mxGraphModel dx="1339" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3400" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3400" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,6 +279,9 @@
         </mxCell>
         <mxCell id="lPb-4Cx-h3c06tGNJMY--101" value="Mask R-CNN (2018)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1530" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lPb-4Cx-h3c06tGNJMY--103" value="&lt;b&gt;Jeff Kilgore&lt;/b&gt;&lt;br style=&quot;font-size: 17px&quot;&gt;CS 5300&lt;br style=&quot;font-size: 17px&quot;&gt;Chapter 24&lt;br style=&quot;font-size: 17px&quot;&gt;Concept Map" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

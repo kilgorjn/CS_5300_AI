@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-27T21:07:00.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="1xZ5CCsqU1mu6_FK6Zi0" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-27T21:09:00.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OpzrKologOUBPwbzplHp" version="14.4.2" type="github">
   <diagram id="gPtfpkTdPf9-HaYes6HZ" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3400" pageHeight="1400" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="580" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TYm-K2p3f5eIiZpeZVLr-2" value="&lt;b&gt;Jeff Kilgore&lt;/b&gt;&lt;br style=&quot;font-size: 17px&quot;&gt;CS 5300&lt;br style=&quot;font-size: 17px&quot;&gt;Chapter 26&lt;br style=&quot;font-size: 17px&quot;&gt;Concept Map" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="70" y="80" width="170" height="90" as="geometry" />
+          <mxGeometry x="370" y="35" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TYm-K2p3f5eIiZpeZVLr-3" value="AI == consciousness?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="190" width="140" height="60" as="geometry" />

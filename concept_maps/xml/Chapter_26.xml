@@ -1,0 +1,276 @@
+<mxfile host="app.diagrams.net" modified="2021-02-27T21:09:00.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="OpzrKologOUBPwbzplHp" version="14.4.2" type="github">
+  <diagram id="gPtfpkTdPf9-HaYes6HZ" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3400" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-1" target="TYm-K2p3f5eIiZpeZVLr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-1" target="TYm-K2p3f5eIiZpeZVLr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-1" target="TYm-K2p3f5eIiZpeZVLr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-1" target="TYm-K2p3f5eIiZpeZVLr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-1" target="TYm-K2p3f5eIiZpeZVLr-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-1" target="TYm-K2p3f5eIiZpeZVLr-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-83" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-1" target="TYm-K2p3f5eIiZpeZVLr-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-1" value="Philosophical Foundations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-2" value="&lt;b&gt;Jeff Kilgore&lt;/b&gt;&lt;br style=&quot;font-size: 17px&quot;&gt;CS 5300&lt;br style=&quot;font-size: 17px&quot;&gt;Chapter 26&lt;br style=&quot;font-size: 17px&quot;&gt;Concept Map" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="370" y="35" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-3" value="AI == consciousness?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-4" target="TYm-K2p3f5eIiZpeZVLr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-4" value="Weak AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-5" target="TYm-K2p3f5eIiZpeZVLr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-40" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-5" target="TYm-K2p3f5eIiZpeZVLr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-5" target="TYm-K2p3f5eIiZpeZVLr-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-5" value="Strong AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-6" target="TYm-K2p3f5eIiZpeZVLr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-6" value="Act Intelligient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="320" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-8" target="TYm-K2p3f5eIiZpeZVLr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-8" value="Actually Thinking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="390" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-13" value="Do even care?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-16" target="TYm-K2p3f5eIiZpeZVLr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-16" target="TYm-K2p3f5eIiZpeZVLr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-16" target="TYm-K2p3f5eIiZpeZVLr-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-16" value="Comparisons" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-18" target="TYm-K2p3f5eIiZpeZVLr-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-18" value="can submarines swim?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-20" target="TYm-K2p3f5eIiZpeZVLr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-20" value="can airplanes fly?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-22" value="by definition, no" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-23" value="by definition, yes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-26" target="TYm-K2p3f5eIiZpeZVLr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-26" target="TYm-K2p3f5eIiZpeZVLr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-26" value="can machines think?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-28" value="by definition, no&lt;br&gt;because machine has no mind" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-30" target="TYm-K2p3f5eIiZpeZVLr-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-30" value="Turing Test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-32" value="even passing test doesn&#39;t mean it can think" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-34" target="TYm-K2p3f5eIiZpeZVLr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-36" value="ill formed question" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TYm-K2p3f5eIiZpeZVLr-35">
+          <mxGeometry x="0.2571" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-34" target="TYm-K2p3f5eIiZpeZVLr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-34" value="Turing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="450" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-37" value="should we even ask if conversation is real or artificial?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="520" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-39" target="TYm-K2p3f5eIiZpeZVLr-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-39" value="Artificial Urea" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="460" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-41" value="historical: can&#39;t convert inorganic chemicals to organic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="460" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-42" target="TYm-K2p3f5eIiZpeZVLr-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-42" value="Fred W&#39;ohler created artificial urea in 1848" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="540" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-46" target="TYm-K2p3f5eIiZpeZVLr-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-46" value="can machines think?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="530" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-48" value="processes are processes, no matter where they are used" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="530" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-50" target="TYm-K2p3f5eIiZpeZVLr-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-50" target="TYm-K2p3f5eIiZpeZVLr-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-50" value="Loss of Uniqueness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-52" value="1543 Copernicus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-53" value="1871 Darwin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-56" target="TYm-K2p3f5eIiZpeZVLr-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-61" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-56" target="TYm-K2p3f5eIiZpeZVLr-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-63" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-56" target="TYm-K2p3f5eIiZpeZVLr-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-72" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-56" target="TYm-K2p3f5eIiZpeZVLr-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-56" value="Military uses of AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-58" value="Packbot (EOD Robot)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="160" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-60" value="Autonomous Drones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="205" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-65" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-62" target="TYm-K2p3f5eIiZpeZVLr-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-68" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-62" target="TYm-K2p3f5eIiZpeZVLr-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-69" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-62" target="TYm-K2p3f5eIiZpeZVLr-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-62" value="Future of fighting?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="245" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-64" value="Opensource war systems" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="245" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-66" value="Re-enforcement of individuals against governments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="185" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-67" value="expansion on the realm of terrorism" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="125" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-70" value="war porn&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="275" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-73" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-71" target="TYm-K2p3f5eIiZpeZVLr-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-75" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-71" target="TYm-K2p3f5eIiZpeZVLr-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-77" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-71" target="TYm-K2p3f5eIiZpeZVLr-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-79" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-71" target="TYm-K2p3f5eIiZpeZVLr-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-81" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-71" target="TYm-K2p3f5eIiZpeZVLr-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-71" value="consequences" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="290" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-74" value="desensitization of death" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="305" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-76" value="cubicle wars" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="335" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-78" value="sight-loss of humanization" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="372.5" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-80" value="unman slaughter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="407.5" width="140" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-82" target="TYm-K2p3f5eIiZpeZVLr-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-87" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-82" target="TYm-K2p3f5eIiZpeZVLr-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-82" value="Trusting AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TYm-K2p3f5eIiZpeZVLr-84" target="TYm-K2p3f5eIiZpeZVLr-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-84" value="how does AI make it&#39;s decisions?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-86" value="should AI algs be open to inspection?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="95" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TYm-K2p3f5eIiZpeZVLr-88" value="unintended bias in AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
